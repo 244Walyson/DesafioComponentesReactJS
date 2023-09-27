@@ -9,10 +9,16 @@
 
 :root {
   --ct-bg-color-primary: #3C9AF0;
+  --ct-bg-color-secondary: #C8C8C8;
 
   --ct-font-color-primary: #fff;
+  --ct-font-color-secondary: #5E5E5E;
 }
 
 a {
   text-decoration: none;
+}
+.ct-container-botton{
+  max-width: 960px;
+  width: 100%;
 }

@@ -1,0 +1,16 @@
+.sec-catalog{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+.cards-catalog{
+    max-width: 746px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: var(--ct-font-color-secondary);
+    flex-direction: column;
+}
+.cards-catalog h2{
+    font-size: 32px;
+}
