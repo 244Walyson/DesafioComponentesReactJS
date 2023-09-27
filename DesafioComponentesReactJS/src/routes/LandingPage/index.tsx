@@ -2,6 +2,7 @@ import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import './styles.css'
 import Card from '../../components/Card'
+import CommentsSection from '../../components/CommentsSection'
 
 const LandingPage = () => {
   return (
@@ -15,6 +16,7 @@ const LandingPage = () => {
             <Card></Card>
           </div>
         </section>
+        <CommentsSection></CommentsSection>
     </main>
     <Footer></Footer>
     </>

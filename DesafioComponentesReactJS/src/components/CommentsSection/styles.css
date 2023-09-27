@@ -1,0 +1,16 @@
+.comments-section{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--ct-bg-color-secondary);
+}
+.comments-section h3{
+    font-size: 32px;
+    color: var(--ct-font-color-secondary);
+}
+.comments{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
