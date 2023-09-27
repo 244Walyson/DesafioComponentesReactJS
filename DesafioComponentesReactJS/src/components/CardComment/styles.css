@@ -1,0 +1,12 @@
+.cardcomment{
+    width: 100%;
+    background-color: var(--ct-bg-color-tertiary);
+    color: var(--ct-font-color-tertiary);
+    border: 1px solid var(--ct-bg-color-primary);
+    border-radius: 12px;
+    height: 74px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

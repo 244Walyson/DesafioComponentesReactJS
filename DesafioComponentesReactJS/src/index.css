@@ -10,9 +10,11 @@
 :root {
   --ct-bg-color-primary: #3C9AF0;
   --ct-bg-color-secondary: #C8C8C8;
+  --ct-bg-color-tertiary: #fff;
 
   --ct-font-color-primary: #fff;
   --ct-font-color-secondary: #5E5E5E;
+  --ct-font-color-tertiary: #3c9af0;
 }
 
 a {
